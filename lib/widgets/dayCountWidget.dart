@@ -40,9 +40,12 @@ class DayCountWidget extends StatelessWidget {
       child: CustomPaint(
         painter: DayPainter(),
         child: Center(
-          child: Text(
-            title.toUpperCase(),
-            style: TextStyle(fontSize: 13, color: Colors.white),
+          child: Padding(
+            padding: const EdgeInsets.all(1.0),
+            child: Text(
+              title.toUpperCase(),
+              style: TextStyle(fontSize: 10, color: Colors.white),
+            ),
           ),
         ),
       ),
