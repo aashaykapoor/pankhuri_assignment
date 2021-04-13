@@ -6,7 +6,6 @@ class CourseViewModel extends ChangeNotifier {
   get course => _course;
   set course(Course course) {
     this._course = course;
-    notifyListeners();
   }
 
   incrementDay() {
