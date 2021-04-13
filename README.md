@@ -2,5 +2,6 @@
 
 A new Flutter project.
 
-![Screenshot_1618294072](https://user-images.githubusercontent.com/38524076/114505183-9e77d380-9c4d-11eb-991f-ebdf0ad097df.png)
+![Screenshot_1618294578](https://user-images.githubusercontent.com/38524076/114505471-1219e080-9c4e-11eb-9e07-5b8f179c294a.png)
+
 
